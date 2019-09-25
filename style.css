@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0; 
 	box-sizing: border-box; 
-	cursor: url('/Users/chelseyywang/Downloads/dzcursor.gif'), auto;
+	cursor: url('dzcursor.gif'), auto;
 }
 
 
@@ -74,7 +74,7 @@ footer{
   display: block;
   margin-left: auto; 
   margin-right: auto; 
-  cursor: url('/Users/chelseyywang/Downloads/dzcrazycursor.gif'), auto;  
+  cursor: url('dzcrazycursor.gif'), auto;  
   /*max-width: 100%; 
   height: auto;*/ 
 }
@@ -91,7 +91,7 @@ footer{
 	float:right; 
 	width: 50px;
 	padding: 5px;
-	cursor: url('/Users/chelseyywang/Downloads/notdzmoneycursor.gif'), auto;
+	cursor: url('notdzmoneycursor.gif'), auto;
 	height: auto;
 }
 .row{
@@ -108,7 +108,7 @@ float: right;
 width: 50px; 
 padding: 5px;
 height: auto;
-cursor: url('/Users/chelseyywang/Downloads/dzselfiecursor.gif'), auto;
+cursor: url('dzselfiecursor.gif'), auto;
 }
 
 
@@ -141,12 +141,12 @@ padding: 5px;
 	align-content: space-between; 
 }
 .crazy{
-	cursor: url('/Users/chelseyywang/Downloads/dzcrazycursor.gif'), auto;
+	cursor: url('dzcrazycursor.gif'), auto;
 }
 .music{
-	cursor: url('/Users/chelseyywang/Downloads/dzsingcursor.gif'), auto;
+	cursor: url('dzsingcursor.gif'), auto;
 }
 
 .baba{
-	cursor: url('/Users/chelseyywang/Downloads/crdzcursor.gif'), auto;
+	cursor: url('crdzcursor.gif'), auto;
 }
