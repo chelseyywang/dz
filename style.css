@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0; 
+	box-sizing: border-box; 
+	cursor: url('/Users/chelseyywang/Downloads/dzcursor.gif'), auto;
+}
+
+
+
+
+header{
+	color: #FFFFFF;
+	background-color: #9932CC;
+	padding: 10px;
+}
+
+#head{
+	margin-right: auto; 
+	margin-left: auto;
+}
+body{
+	background-color: #6e048d;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  color: #ffd2df;
+  background-color: #9932CC;
+}
+.foot{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.copyright{
+	color: #ffd2df;
+}
+.cen{
+	display: block; 
+	width: 80%; 
+	height: auto; 
+}
+.cent{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%; 
+}
+.responsive{
+	max-width: 70%;
+	height: auto;
+}
+.title{
+	color: #ffd2df; 
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px; 
+	padding: 10px; 
+}
+.pro{
+	/*font-size: 50px; */
+	font-weight: bolder; 
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.example {
+  display: flex;
+  justify-content: space-around; 
+}
+  .merch img {
+  display: block;
+  margin-left: auto; 
+  margin-right: auto; 
+  cursor: url('/Users/chelseyywang/Downloads/dzcrazycursor.gif'), auto;  
+  /*max-width: 100%; 
+  height: auto;*/ 
+}
+
+.first{
+	text-align: center; 
+}
+.name{
+	font-size: 20px; 
+	padding: 5px; 
+	color: #ffd2df;
+}
+.shop{
+	float:right; 
+	width: 50px;
+	padding: 5px;
+	cursor: url('/Users/chelseyywang/Downloads/notdzmoneycursor.gif'), auto;
+	height: auto;
+}
+.row{
+	display: flex;
+}
+.col{
+	flex: 80%;
+}
+.colu{
+	flex: 20%;
+}
+.insta{
+float: right;
+width: 50px; 
+padding: 5px;
+height: auto;
+cursor: url('/Users/chelseyywang/Downloads/dzselfiecursor.gif'), auto;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 70%;
+  padding: 0 4px;
+  /*border: 2px solid #AFAFAF;*/
+}
+.column2 {
+  flex: 30%;
+  padding: 0 4px;
+  border: 2px solid #AFAFAF;
+}
+.column img {
+  margin-top: 8px;
+/*  vertical-align: middle;*/
+}
+.video{
+padding: 5px; 
+}
+
+#spot{
+	align-content: space-between; 
+}
+.crazy{
+	cursor: url('/Users/chelseyywang/Downloads/dzcrazycursor.gif'), auto;
+}
+.music{
+	cursor: url('/Users/chelseyywang/Downloads/dzsingcursor.gif'), auto;
+}
+
+.baba{
+	cursor: url('/Users/chelseyywang/Downloads/crdzcursor.gif'), auto;
+}
